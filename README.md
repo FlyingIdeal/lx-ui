@@ -20,7 +20,7 @@ npm run build
 npm run lint
 ```
 
-牛叉
+牛叉啊
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
